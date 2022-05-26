@@ -10,7 +10,7 @@ env:
   OWNER: genekuo
   REGISTRY: ghcr.io
   APP_REPO: catalog-service
-  DEPLOY_REPO: appllication-deployment
+  DEPLOY_REPO: application-deployment
   VERSION: ${{ github.sha }}
 
 jobs:
